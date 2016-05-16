@@ -1,5 +1,8 @@
 Sinatra was designed and developed by Blake Mizerany in California.
 
+
+WE ARE AWSEOME!!!!!!!!!!!!!!!!!!!!!
+
 ### Current Team
 
 * **Konstantin Haase** (maintainer)
